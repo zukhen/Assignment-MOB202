@@ -1,0 +1,73 @@
+<?xml version="1.0" encoding="utf-8"?>
+<com.ntduc.swipereveallayout.SwipeRevealLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    android:layout_width="match_parent"
+    android:id="@+id/layout_typeOfRevenue"
+    android:layout_height="wrap_content"
+    android:background="@color/gray"
+    app:dragEdge="right"
+    app:mode="same_level">
+
+
+    <LinearLayout
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:orientation="horizontal">
+
+        <LinearLayout
+            android:id="@+id/layout_deleteTypeOfRevenue"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:background="@color/red"
+            android:gravity="center"
+            android:orientation="vertical"
+            android:padding="5dp">
+
+            <ImageView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:src="@drawable/ic_baseline_delete_24" />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:gravity="center"
+                android:text="@string/delete"
+                android:textColor="@color/white"
+                android:textSize="14sp"
+                android:textStyle="bold" />
+        </LinearLayout>
+    </LinearLayout>
+
+    <LinearLayout
+        android:id="@+id/layout_type_of_revenue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:background="@color/white"
+        android:orientation="horizontal">
+
+        <ImageView
+            android:layout_width="70dp"
+            android:layout_height="70dp"
+            android:src="@drawable/avatar_khoanthu" />
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:paddingStart="5dp"
+            android:orientation="vertical">
+            <TextView
+                android:id="@+id/tv_nameTypeOfRevenue"
+                android:layout_width="match_parent"
+                android:text="tên khoản thu"
+                android:gravity="center|start"
+                android:textColor="@color/orange"
+                android:textSize="21sp"
+                android:textStyle="bold"
+                android:layout_height="match_parent" />
+
+
+        </LinearLayout>
+
+    </LinearLayout>
+</com.ntduc.swipereveallayout.SwipeRevealLayout>

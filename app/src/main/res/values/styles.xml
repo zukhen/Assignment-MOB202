@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="CustomDialog" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:windowBackground"></item>
+    </style>
+    <style name="CustomTabView" parent="Theme.AppCompat.Light.Dialog.Alert">
+        <item name="android:textStyle">bold</item>
+        <item name="tabSelectedTextColor">@color/purple_500</item>
+    </style>
+    <style name="ToolbarTheme" parent="@style/ThemeOverlay.AppCompat.ActionBar">
+        <!-- Customize color of navigation drawer icon and back arrow -->
+        <item name="colorControlNormal">@color/white</item>
+    </style>
+    <style name="DialogAnimation">
+        <item name="android:windowEnterAnimation" type="">@anim/dialog_edit_profile</item>
+        <item name="android:windowExitAnimation">@anim/dialog_edit_profile1</item>
+
+    </style>
+</resources>

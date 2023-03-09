@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@drawable/background"
+    android:orientation="vertical"
+    tools:context=".register_activity">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="60dp"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:text="Đăng ký"
+        android:textColor="@color/white"
+        android:textSize="35dp" />
+
+    <EditText
+        android:id="@+id/username"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/login"
+        android:drawableLeft="@drawable/ic_baseline_person_24"
+        android:drawablePadding="35dp"
+        android:hint="Tài khoản"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <EditText
+        android:id="@+id/passwords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/login"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:drawablePadding="35dp"
+        android:hint="Mật khẩu"
+        android:inputType="textPassword"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <EditText
+        android:id="@+id/rePasswords"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="10dp"
+        android:background="@drawable/login"
+        android:drawableLeft="@drawable/ic_baseline_lock_24"
+        android:drawablePadding="35dp"
+        android:hint="Nhập lại mật khẩu"
+        android:inputType="textPassword"
+        android:padding="20dp"
+        android:textColor="@color/white"
+        android:textColorHint="@color/white" />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="horizontal">
+
+        <CheckBox
+            android:id="@+id/chk_dieuKien"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:layout_marginLeft="10dp"
+            android:buttonTint="@color/white"
+            android:padding="10dp"
+            />
+
+        <TextView
+            android:textColor="@color/white"
+            android:layout_width="match_parent"
+            android:layout_marginTop="-10dp"
+            android:layout_height="wrap_content"
+            android:text="Bạn đồng ý với các điều khoản của chúng\ntôi"
+            android:textSize="17dp" />
+
+    </LinearLayout>
+    <TextView
+        android:id="@+id/btn_dieuKhoan"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Điều khoản và điều kiện"
+        android:textColor="@color/pink_200"
+        android:layout_marginLeft="60dp"
+        android:textSize="15dp" />
+
+
+    <TextView
+        android:id="@+id/btn_dangKy"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="30dp"
+        android:layout_marginTop="20dp"
+        android:background="@drawable/button_login"
+        android:backgroundTint="@color/teal_200"
+        android:gravity="center"
+        android:padding="15dp"
+        android:text="Tạo tài khoản"
+        android:textAllCaps="true"
+        android:textColor="@color/white"
+        android:textSize="18dp" />
+</LinearLayout>

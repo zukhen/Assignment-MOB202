@@ -1,0 +1,127 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:background="@drawable/bg_white_header_thu"
+    android:paddingHorizontal="10dp"
+    android:orientation="vertical">
+
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
+        android:gravity="center"
+        android:text="Cập nhật khoản thu"
+        android:textColor="@color/yellow_900"
+        android:textSize="25sp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/tvErrorURevenue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:gravity="center"
+        android:textColor="@color/red"
+        android:textSize="20dp"
+        android:textStyle="bold" />
+    <TextView
+        android:id="@+id/tv_idRevenue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:padding="10dp"
+        android:text="ID"
+        android:textSize="18sp" />
+<!-- U: Update-->
+    <EditText
+        android:id="@+id/edt_UnameOfRevenue"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginVertical="10dp"
+        android:hint="Tên khoản thu" />
+
+    <RelativeLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content">
+
+        <EditText
+            android:id="@+id/edt_UdateOfRevenue"
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:hint="Ngày thu" />
+
+        <ImageView
+            android:id="@+id/date_picker_actions"
+            android:layout_width="32dp"
+            android:layout_height="32dp"
+            android:layout_alignEnd="@+id/edt_UdateOfRevenue"
+            android:layout_alignParentTop="true"
+            android:layout_marginTop="4dp"
+            android:layout_marginEnd="2dp"
+            android:src="@drawable/ic_baseline_date_range_24" />
+
+    </RelativeLayout>
+
+    <EditText
+        android:id="@+id/ed_UmoneyOfRevenue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="Số tiền"
+        android:inputType="number" />
+
+    <EditText
+        android:id="@+id/ed_UdescriptionRevenue"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_marginVertical="10dp"
+        android:hint="Mô tả" />
+
+    <EditText
+        android:id="@+id/edt_UfullName"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:hint="Người thu" />
+
+    <Spinner
+        android:id="@+id/spn_typeOfRevenue"
+        android:layout_width="match_parent"
+        android:layout_height="50dp"
+        android:layout_marginVertical="10dp"
+        android:entries="@array/spiner_hintThu"
+        />
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginBottom="20dp"
+        android:gravity="center"
+        android:orientation="horizontal"
+        android:weightSum="4">
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_updateRevenue"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            android:background="@drawable/button_corner"
+            android:text="Sửa"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="22sp" />
+
+        <View
+            android:layout_width="0dp"
+            android:layout_height="match_parent"
+            android:layout_weight="0.5" />
+
+        <androidx.appcompat.widget.AppCompatButton
+            android:id="@+id/btn_cancel"
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:layout_weight="1.5"
+            android:background="@drawable/button_corner"
+            android:text="Hủy"
+            android:textAllCaps="false"
+            android:textColor="@color/white"
+            android:textSize="22sp" />
+    </LinearLayout>
+
+</LinearLayout>

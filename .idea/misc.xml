@@ -1,0 +1,154 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="../../../../layout/custom_preview.xml" value="0.22" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/activity_main.xml" value="0.19747899159663865" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/chi_fragment.xml" value="0.1" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/dialog_them_khoan_chi.xml" value="0.4675" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/item_spinner_khoanchi.xml" value="0.3133159268929504" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/layout_header_navigation.xml" value="0.5578125" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/progressbar.xml" value="0.5578125" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/row_chi.xml" value="0.590625" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/row_khoanchi.xml" value="0.33" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/row_khoanthu.xml" value="0.28984375" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/tab_khoan_chi_fragment.xml" value="0.29900332225913623" />
+        <entry key="..\:/MOB202/khanhvvph28077_Assignment/app/src/main/res/layout/tab_khoan_thu_fragment.xml" value="0.28984375" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1555" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1485" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/drawable/ic_home.xml" value="0.183" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/drawable/ic_launcher_background.xml" value="0.1555" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/drawable/item_selected.xml" value="0.2465" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/drawable/login.xml" value="0.2755" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/drawable/round_corner.xml" value="0.2465" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/activity_login_main.xml" value="0.371875" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/activity_main.xml" value="0.371875" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/attr.xml" value="0.1398148148148148" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/chi_fragment.xml" value="0.5578125" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/dimens.xml" value="0.371875" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/home_fragment.xml" value="0.33" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/layout_header_navigation.xml" value="0.5578125" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/profile_fragment.xml" value="0.35462962962962963" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/row_thu.xml" value="0.5578125" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/setting_fragment.xml" value="0.14652014652014653" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/tab_khoan_chi_fragment.xml" value="0.5578125" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/layout/thu_fragment.xml" value="0.5578125" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/menu/item_menu.xml" value="0.371875" />
+        <entry key="..\:/khanhvvph28077_Assignment/app/src/main/res/menu/menu_nav.xml" value="0.5578125" />
+        <entry key="app/src/main/res/drawable-v24/ic_launcher_foreground.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/bg_input_colorgray_16dp.xml" value="0.221" />
+        <entry key="app/src/main/res/drawable/bg_loaithu_colorgray.xml" value="0.2145" />
+        <entry key="app/src/main/res/drawable/bg_purple_header_thu.xml" value="0.261" />
+        <entry key="app/src/main/res/drawable/bg_white_header_thu.xml" value="0.209" />
+        <entry key="app/src/main/res/drawable/btnLogin.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/btnlogin.xml" value="0.261" />
+        <entry key="app/src/main/res/drawable/button_login.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/custom_button.xml" value="0.169" />
+        <entry key="app/src/main/res/drawable/dialog_themkhoanthu.xml" value="0.209" />
+        <entry key="app/src/main/res/drawable/ic_baseline_add_24.xml" value="0.209" />
+        <entry key="app/src/main/res/drawable/ic_baseline_delete_24.xml" value="0.2525" />
+        <entry key="app/src/main/res/drawable/ic_baseline_info_24.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_24.xml" value="0.1015" />
+        <entry key="app/src/main/res/drawable/ic_baseline_lock_50.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_baseline_login_24.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_loyalty_24.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_menu_24.xml" value="0.1355" />
+        <entry key="app/src/main/res/drawable/ic_baseline_payment_24.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_24.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_person_32.xml" value="0.3575" />
+        <entry key="app/src/main/res/drawable/ic_baseline_settings_24.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/ic_baseline_show_chart_24.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/ic_home.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/ic_launcher_background.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/ic_person.xml" value="0.1015" />
+        <entry key="app/src/main/res/drawable/ic_setting.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/item_selected.xml" value="0.1875" />
+        <entry key="app/src/main/res/drawable/login.xml" value="0.1475" />
+        <entry key="app/src/main/res/drawable/round_corner.xml" value="0.1" />
+        <entry key="app/src/main/res/drawable/row_thu.xml" value="0.2525" />
+        <entry key="app/src/main/res/layout-large/activity_login_main.xml" value="0.5" />
+        <entry key="app/src/main/res/layout-large/activity_main.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout-large/activity_resign.xml" value="0.41375" />
+        <entry key="app/src/main/res/layout-large/chi_fragment.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout-large/gioithieu_fragment.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout-large/layout_header_navigation.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout-large/setting_fragment.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout-large/thongke_fragment.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout-normal/activity_login_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout-normal/activity_main.xml" value="0.23108108108108108" />
+        <entry key="app/src/main/res/layout-normal/activity_resign.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout-normal/gioithieu_fragment.xml" value="0.23108108108108108" />
+        <entry key="app/src/main/res/layout-normal/layout_header_navigation.xml" value="0.23108108108108108" />
+        <entry key="app/src/main/res/layout-normal/setting_fragment.xml" value="0.23108108108108108" />
+        <entry key="app/src/main/res/layout-normal/thongke_fragment.xml" value="0.23108108108108108" />
+        <entry key="app/src/main/res/layout-normal/thu_fragment.xml" value="0.23108108108108108" />
+        <entry key="app/src/main/res/layout-small/activity_login_main.xml" value="1.78125" />
+        <entry key="app/src/main/res/layout-small/thongke_fragment.xml" value="0.23108108108108108" />
+        <entry key="app/src/main/res/layout-v31/dialog_capnhat_loai_thu.xml" value="0.38" />
+        <entry key="app/src/main/res/layout-xlarge/activity_login_main.xml" value="0.5" />
+        <entry key="app/src/main/res/layout-xlarge/activity_main.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout-xlarge/activity_resign.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout-xlarge/gioithieu_fragment.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout-xlarge/layout_header_navigation.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout-xlarge/thongke_fragment.xml" value="0.2671875" />
+        <entry key="app/src/main/res/layout/activity_fogot_pwd.xml" value="0.534375" />
+        <entry key="app/src/main/res/layout/activity_fogot_pwd_activituy.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_login_main.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/activity_main.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/activity_resign.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/chi_fragment.xml" value="0.35625" />
+        <entry key="app/src/main/res/layout/dialog_capnhat_khoan_chi.xml" value="0.47890625" />
+        <entry key="app/src/main/res/layout/dialog_capnhat_khoan_thu.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/dialog_capnhat_loaichi.xml" value="0.44077134986225897" />
+        <entry key="app/src/main/res/layout/dialog_capnhat_loaithu.xml" value="0.47734375" />
+        <entry key="app/src/main/res/layout/dialog_them.xml" value="0.47734375" />
+        <entry key="app/src/main/res/layout/dialog_them_khoan_chi.xml" value="0.44077134986225897" />
+        <entry key="app/src/main/res/layout/dialog_them_khoan_thu.xml" value="0.67" />
+        <entry key="app/src/main/res/layout/dialog_them_khoan_thua.xml" value="0.3075" />
+        <entry key="app/src/main/res/layout/dialog_them_loai_chi.xml" value="0.44077134986225897" />
+        <entry key="app/src/main/res/layout/dialog_them_loai_thu.xml" value="0.47890625" />
+        <entry key="app/src/main/res/layout/dieukhoan_fragment.xml" value="0.2" />
+        <entry key="app/src/main/res/layout/gioithieu_fragment.xml" value="0.3138888888888889" />
+        <entry key="app/src/main/res/layout/home_fragment.xml" value="0.2884963768115942" />
+        <entry key="app/src/main/res/layout/item_spinner_khoanchi.xml" value="0.5" />
+        <entry key="app/src/main/res/layout/item_spinner_khoanthu.xml" value="0.47734375" />
+        <entry key="app/src/main/res/layout/layer_information_khoanthu.xml" value="0.33" />
+        <entry key="app/src/main/res/layout/layout_header_navigation.xml" value="0.3203125" />
+        <entry key="app/src/main/res/layout/login_fragment.xml" value="0.47734375" />
+        <entry key="app/src/main/res/layout/profile_fragment.xml" value="0.2884963768115942" />
+        <entry key="app/src/main/res/layout/progressbar.xml" value="0.16375" />
+        <entry key="app/src/main/res/layout/row_chi.xml" value="0.47890625" />
+        <entry key="app/src/main/res/layout/row_khoanchi.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_khoanthu.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/row_thu.xml" value="0.4141891891891892" />
+        <entry key="app/src/main/res/layout/setting_fragment.xml" value="0.2884963768115942" />
+        <entry key="app/src/main/res/layout/tab_khoan_chi_fragment.xml" value="0.418848167539267" />
+        <entry key="app/src/main/res/layout/tab_khoan_thu_fragment.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/tab_loaichi_fragment.xml" value="0.4177545691906005" />
+        <entry key="app/src/main/res/layout/tab_loaithu_fragment.xml" value="0.47890625" />
+        <entry key="app/src/main/res/layout/tab_thongkechi_fragment.xml" value="0.22" />
+        <entry key="app/src/main/res/layout/tab_thongkethu_fragment.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/tabview_loaithu.xml" value="0.2783053323593864" />
+        <entry key="app/src/main/res/layout/thongke_fragment.xml" value="0.31927083333333334" />
+        <entry key="app/src/main/res/layout/thu_fragment.xml" value="0.5" />
+        <entry key="app/src/main/res/menu/item_menu.xml" value="0.3203125" />
+        <entry key="app/src/main/res/menu/menu_nav.xml" value="0.3203125" />
+        <entry key="app/src/main/res/mipmap-anydpi-v26/ic_launcher.xml" value="0.1475" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="11" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+  <component name="VisualizationToolProject">
+    <option name="state">
+      <ProjectState>
+        <option name="scale" value="0.2604166666666667" />
+      </ProjectState>
+    </option>
+  </component>
+</project>

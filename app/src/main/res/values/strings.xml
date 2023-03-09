@@ -1,0 +1,53 @@
+<resources>
+    <string name="app_name">Quản lý chi tiêu</string>
+    <string name="nav_revenue">Khoản thu</string>
+    <string name="nav_expenses">Khoản chi</string>
+    <string name="nav_analysis">Thống kê</string>
+    <string name="nav_introduce">Giới thiệu</string>
+    <string name="nav_logout">Đăng xuất</string>
+    <string name="nav_setting">Cài đặt</string>
+    <string name="navigation_drawer_open">Mở thanh điều hướng</string>
+    <string name="navigation_drawer_close">Đóng thanh điều hướng</string>
+    <string name="Conditions">Quản lý chi tiêu\nMã sinh viên: PH12345</string>
+    <string name="update">Cập nhật</string>
+    <string name="lorem_ipsum">Lorem, ipsum dolor sit amet consectetur adipisicing elit. Fugiat sit perferendis libero quisquam ad, blanditiis ullam, unde atque non facere iure, quod debitis nemo labore veritatis ut. Vitae, quam voluptatem?</string>
+
+    <string-array name="spiner_hintThu">
+        <item>
+            Chọn loại thu
+        </item>
+    </string-array>
+    <string-array name="spiner_hintChi">
+        <item>
+            Chọn loại chi
+        </item>
+    </string-array>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="t_m_ki_m">Lưu trữ</string>
+    <string name="login">Đăng nhập</string>
+    <string name="register">Đăng ký</string>
+    <string name="vu_khanh">Vu Khanh</string>
+    <string name="khanhvvph2_fpt_edu_vn">khanhvvph2XXXX@fpt.edu.vn</string>
+    <string name="copy_succeed">Sao chép văn bản thành công</string>
+    <string name="name_of_expenses">Tên khoản chi: </string>
+    <string name="date_expenses">Ngày chi: </string>
+    <string name="money">Số tiền: </string>
+    <string name="unit">vnd.</string>
+    <string name="id">"ID: "</string>
+    <string name="fullName">Người chi: </string>
+    <string name="description">Mô tả: </string>
+    <string name="cost">Số tiền: </string>
+    <string name="empty">Vui lòng không để trống</string>
+    <string name="update_succeed">Cập nhật thành công</string>
+    <string name="name_of_revenue">Tên khoản thu: </string>
+    <string name="date_revenue">Ngày thu: </string>
+    <string name="name_type_of_expenses">Tên loại chi:</string>
+    <string name="update_type_of_expenses">Cập nhật loại chi</string>
+    <string name="Analysis">"Thống kê"</string>
+    <string name="revenue">Khoản thu</string>
+    <string name="expenses">Khoản chi</string>
+    <string name="type_of_expenses">Loại chi</string>
+    <string name="delete">Xóa</string>
+    <string name="i_m_t_kh_u">Đổi mật khẩu</string>
+</resources>

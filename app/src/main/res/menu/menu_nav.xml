@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_revenue"
+
+            android:icon="@drawable/ic_baseline_payment_24"
+
+            android:title="@string/nav_revenue" />
+        <item
+            android:id="@+id/nav_expenses"
+            android:icon="@drawable/ic_baseline_loyalty_24"
+            android:title="@string/nav_expenses" />
+        <item
+            android:id="@+id/nav_analysis"
+            android:icon="@drawable/ic_baseline_show_chart_24"
+            android:title="@string/nav_analysis" />
+    </group>
+    <item android:title="Khác">
+        <menu>
+            <item
+                android:id="@+id/nav_introduce"
+                android:icon="@drawable/ic_baseline_info_24"
+                android:title="@string/nav_introduce" />
+            <item
+                android:id="@+id/nav_logout"
+                android:icon="@drawable/ic_baseline_login_24"
+                android:title="@string/nav_logout" />
+
+        </menu>
+    </item>
+
+</menu>
